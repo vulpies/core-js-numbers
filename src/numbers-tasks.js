@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable no-plusplus */
 /* eslint-disable no-restricted-properties */
 
@@ -64,8 +65,8 @@ function getFibonacciNumber(index) {
   return index < 1
     ? 0
     : index <= 2
-    ? 1
-    : getFibonacciNumber(index - 1) + getFibonacciNumber(index - 2);
+      ? 1
+      : getFibonacciNumber(index - 1) + getFibonacciNumber(index - 2);
 }
 
 function getSumToN(n) {
