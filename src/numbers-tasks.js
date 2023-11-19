@@ -1,3 +1,4 @@
+/* eslint-disable no-nested-ternary */
 /* eslint-disable prettier/prettier */
 /* eslint-disable no-plusplus */
 /* eslint-disable no-restricted-properties */

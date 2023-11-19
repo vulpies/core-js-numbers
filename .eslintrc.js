@@ -14,7 +14,6 @@ module.exports = {
     ecmaVersion: 2018,
   },
   rules: {
-    'no-nested-ternary': 'off',
     'prettier/prettier': [
       'error',
       {
